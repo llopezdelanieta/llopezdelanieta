@@ -5,7 +5,7 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=llopezdelanieta&show_icons=true&theme=dark&line_height=30" alt="llopezdelanieta's github stats"/>
 </a>
 
-- Formado em sistemas de informação e pós graduado em gestão de TI pela Mackenzie, atuo com análise de sistemas ERP atualmente e gerenciamento de banco de dados SQL SERVER.
+- Formado em sistemas de informação e pós graduado em gestão de TI pela Mackenzie, atuo com análise de sistemas ERP e gerenciamento de banco de dados SQL SERVER.
 
 
 <br><br><br><br><br><br><br>
